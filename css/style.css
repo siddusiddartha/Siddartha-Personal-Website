@@ -5,6 +5,9 @@ width:100%;
 ul{
   line-height:1.5;
 }
+a{
+  text-decoration: none;
+}
 body{
   background-color: #f6f6f6;
 }
